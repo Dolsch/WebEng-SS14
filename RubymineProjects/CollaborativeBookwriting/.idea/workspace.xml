@@ -2,93 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d0254bb-a238-49ce-95cf-ef94d9477e74" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/mailers/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/assets/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/tasks/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/log/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/functional/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/integration/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/plugins/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/rails.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.generators" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20140423155614_create_books.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/422.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/500.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/CollaborativeBookwriting.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gemfile" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/HelloWorld.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.rdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/README_FOR_APP" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/books/_form.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/application.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/helpers/application_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/backtrace_silencers.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/book.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/book_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/books.css.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/books.js.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/books.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/books_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/functional/books_controller_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/helpers/books_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/helpers/books_helper_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/boot.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/performance/browsing_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.ru" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/database.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/environments/development.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/books/edit.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/locales/en.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/environment.rb" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HelloWorld/hello_you.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/books/index.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/inflections.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/mime_types.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/books/new.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/environments/production.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/script/rails" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/routes.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/scaffolds.css.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/schema.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/secret_token.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/seeds.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/session_store.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/books/show.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/environments/test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/test_helper.rb" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/.RubyMine60/config/options/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/wrap_parameters.rb" />
+      <change type="DELETED" beforePath="C:\Users\Dennis\RubymineProjects\CollaborativeBookwriting\bla" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.generators" afterPath="$PROJECT_DIR$/.idea/.generators" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.rakeTasks" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/migrate/20140423155614_create_books.rb" afterPath="$PROJECT_DIR$/db/migrate/20140423155614_create_books.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/CollaborativeBookwriting.iml" afterPath="$PROJECT_DIR$/.idea/CollaborativeBookwriting.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/schema.rb" afterPath="$PROJECT_DIR$/db/schema.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CollaborativeBookwriting.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -145,7 +80,7 @@
       <file leaf-file-name="20140423155614_create_books.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/db/migrate/20140423155614_create_books.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="12" selection-start="56" selection-end="56" vertical-scroll-proportion="0.042183623" vertical-offset="0" max-vertical-offset="403">
+            <state line="10" column="3" selection-start="194" selection-end="194" vertical-scroll-proportion="0.42183623" vertical-offset="0" max-vertical-offset="403">
               <folding />
             </state>
           </provider>
@@ -186,6 +121,13 @@
       <map>
         <entry key="$USER_HOME$" value="Branch" />
       </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/db/migrate/20140423155614_create_books.rb" />
+      </list>
     </option>
   </component>
   <component name="LogFilters">
@@ -233,6 +175,16 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="CollaborativeBookwriting" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CollaborativeBookwriting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CollaborativeBookwriting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -492,12 +444,22 @@
       <created>1398268341817</created>
       <updated>1398268341817</updated>
     </task>
+    <task id="LOCAL-00001" summary="Committin">
+      <created>1398269853449</created>
+      <updated>1398269853449</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Committing&#10;">
+      <created>1398270026948</created>
+      <updated>1398270026948</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286385" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -530,6 +492,10 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="&#10;# Please enter the commit message for your changes. Lines starting&#10;# with '#' will be ignored, and an empty message aborts the commit.&#10;# On branch master&#10;# Changes to be committed:&#10;#   (use &quot;git reset HEAD &lt;file&gt;...&quot; to unstage)&#10;#&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/.gitignore&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/.idea/.generators&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/.idea/.name&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/.idea/.rakeTasks&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/.idea/CollaborativeBookwriting.iml&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/.idea/encodings.xml&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/.idea/misc.xml&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/.idea/modules.xml&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/.idea/scopes/scope_settings.xml&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/.idea/vcs.xml&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/.idea/workspace.xml&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/Gemfile&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/Gemfile.lock&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/README.rdoc&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/Rakefile&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/app/assets/images/rails.png&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/app/assets/javascripts/application.js&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/app/assets/javascripts/books.js.coffee&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/app/assets/stylesheets/application.css&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/app/assets/stylesheets/books.css.scss&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/app/assets/stylesheets/scaffolds.css.scss&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/app/controllers/application_controller.rb&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/app/controllers/books_controller.rb&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/app/helpers/application_helper.rb&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/app/helpers/books_helper.rb&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/app/mailers/.gitkeep&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/app/models/.gitkeep&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/app/models/book.rb&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/app/views/books/_form.html.erb&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/app/views/books/edit.html.erb&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/app/views/books/index.html.erb&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/app/views/books/new.html.erb&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/app/views/books/show.html.erb&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/app/views/layouts/application.html.erb&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/config.ru&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/config/application.rb&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/config/boot.rb&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/config/database.yml&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/config/environment.rb&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/config/environments/development.rb&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/config/environments/production.rb&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/config/environments/test.rb&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/config/initializers/backtrace_silencers.rb&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/config/initializers/inflections.rb&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/config/initializers/mime_types.rb&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/config/initializers/secret_token.rb&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/config/initializers/session_store.rb&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/config/initializers/wrap_parameters.rb&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/config/locales/en.yml&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/config/routes.rb&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/db/migrate/20140423155614_create_books.rb&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/db/schema.rb&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/db/seeds.rb&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/doc/README_FOR_APP&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/lib/assets/.gitkeep&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/lib/tasks/.gitkeep&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/log/.gitkeep&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/public/404.html&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/public/422.html&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/public/500.html&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/public/favicon.ico&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/public/index.html&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/public/robots.txt&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/script/rails&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/test/fixtures/.gitkeep&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/test/fixtures/books.yml&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/test/functional/.gitkeep&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/test/functional/books_controller_test.rb&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/test/integration/.gitkeep&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/test/performance/browsing_test.rb&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/test/test_helper.rb&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/test/unit/.gitkeep&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/test/unit/book_test.rb&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/test/unit/helpers/books_helper_test.rb&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/vendor/assets/javascripts/.gitkeep&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/vendor/assets/stylesheets/.gitkeep&#10;#&#9;new file:   RubymineProjects/CollaborativeBookwriting/vendor/plugins/.gitkeep&#10;#&#9;new file:   RubymineProjects/HelloWorld/.idea/.name&#10;#&#9;new file:   RubymineProjects/HelloWorld/.idea/HelloWorld.iml&#10;#&#9;new file:   RubymineProjects/HelloWorld/.idea/encodings.xml&#10;#&#9;new file:   RubymineProjects/HelloWorld/.idea/misc.xml&#10;#&#9;new file:   RubymineProjects/HelloWorld/.idea/modules.xml&#10;#&#9;new file:   RubymineProjects/HelloWorld/.idea/scopes/scope_settings.xml&#10;#&#9;new file:   RubymineProjects/HelloWorld/.idea/vcs.xml&#10;#&#9;new file:   RubymineProjects/HelloWorld/.idea/workspace.xml&#10;#&#9;new file:   RubymineProjects/HelloWorld/hello_you.rb&#10;#&#10;# Untracked files:&#10;#   (use &quot;git add &lt;file&gt;...&quot; to include in what will be committed)&#10;#&#10;#&#9;.RubyMine60/&#10;#&#9;.TransferManager.db&#10;#&#9;.VirtualBox/&#10;#&#9;.android/&#10;#&#9;.eclipse/&#10;#&#9;.gitconfig&#10;#&#9;.magicdraw_personal/&#10;#&#9;.ssh/&#10;#&#9;AppData/&#10;#&#9;Contacts/&#10;#&#9;Desktop/&#10;#&#9;Documents/&#10;#&#9;Downloads/&#10;#&#9;Favorites/&#10;#&#9;Google/&#10;#&#9;Links/&#10;#&#9;Music/&#10;#&#9;NTUSER.DAT&#10;#&#9;NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TM.blf&#10;#&#9;NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000001.regtrans-ms&#10;#&#9;NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000002.regtrans-ms&#10;#&#9;Pictures/&#10;#&#9;Saved Games/&#10;#&#9;Searches/&#10;#&#9;Videos/&#10;#&#9;VirtualBox VMs/&#10;#&#9;ntuser.dat.LOG1&#10;#&#9;ntuser.dat.LOG2&#10;#&#9;ntuser.ini&#10;#&#9;workspace/&#10;" />
+    <MESSAGE value="Committin" />
+    <MESSAGE value="Committing&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Committing&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -572,7 +538,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20140423155614_create_books.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="12" selection-start="56" selection-end="56" vertical-scroll-proportion="0.042183623" vertical-offset="0" max-vertical-offset="403">
+        <state line="10" column="3" selection-start="194" selection-end="194" vertical-scroll-proportion="0.42183623" vertical-offset="0" max-vertical-offset="403">
           <folding />
         </state>
       </provider>
