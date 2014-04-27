@@ -1,0 +1,17 @@
+<h1>User</h1>
+
+<p>
+  <b>Name:</b>
+  <%= @user.name %>
+</p>
+
+<p>
+  <b>E-Mail:</b>
+  <%= @user.email %>
+</p>
+
+<% if can? :manage, @user %>
+    <%= link_to 'Edit', edit_user_path(:id => @user.id) %>
+<% end %>
+
+<%= link_to 'Back', root_path  %>
